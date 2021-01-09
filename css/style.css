@@ -1,0 +1,84 @@
+
+.stud{
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/img1.jpg");
+}
+.stud h1{
+    font-size: 40px;
+    font-weight: 700;
+margin-top: 235px;
+
+}
+}
+.head{
+    text-align: center;
+    size: 100px;
+}
+.text1{
+color: rgb(165, 42, 128);
+size: 50px;
+}
+.text{
+color: floralwhite;
+}
+.h1{
+
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    color: floralwhite;
+    transform: translate X(-50%) translate Y(-50%);
+}
+.h2{
+    color: deepskyblue;
+}
+.log{
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("../images/logoimag.jpg") ;
+    color: honeydew;
+    
+}
+.sign{
+    background-color:  lightblue;
+    color:floralwhite ;
+    align-items: center;
+justify-items: center;
+    text-align: center;
+    
+
+}
+.return{
+align-items: center;
+text-align: center;
+}
+.img{
+background-color:lightblue ;
+}
+.ga{
+ background-color: floralwhite;
+}
+    .p{
+        text-shadow: darkolivegreen;
+    }
+    .h4{
+        color: deepskyblue;
+    }
+
+.re1{
+    background-color:  lightblue;
+    color: darkgrey;
+}
+.re2{
+    color: darkgrey;
+}
